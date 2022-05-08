@@ -1,7 +1,7 @@
 A single page application project from SoftUni
 
-To initialize
-- install dependacies with command line "npm i"
+To initialize:
+- install dependencies with command line "npm i"
 - run SoftUni server through terminal navigate to the server and write "node server"
 - run lite-html with terminal "npm run dev"
 
